@@ -43,4 +43,5 @@
 	![Horiseon page part 1](./assets/images/screen-shot-01.jpg)
     ![Horiseon page part 2](./assets/images/screen-shot-02.jpg)
 ## links 
-[Github repository](https://www.example.com)
+[Github repository](https://github.com/mr2447/horiseon-refactor/tree/main/01-challenge-08-15/02-Challenge/Develop)
+[Deployed URL](https://mr2447.github.io/horiseon-refactor/)
