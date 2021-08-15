@@ -1,4 +1,15 @@
 # Code Refactor For Horiseon
+## Pupose
+A website that offers Search Engine Optimization, Online Reputation Management and Social Media Marketing. 
+## Built With
+- HTML
+- CSS
+## Website
+[Horiseon URL](https://mr2447.github.io/horiseon-refactor/)
+[GitHub repo](https://github.com/mr2447/horiseon-refactor)
+## Contribution
+Made with ❤ by Marvin Ren
+© 2019 Horiseon Social Solution Services, Inc.
 ## Changes made in index.html
     1. line 2, <html lang="en-us"> change to "en". us is not necessary.
     2. line 6, title should be Horiseon and not website.
@@ -40,8 +51,5 @@
     4. heart symbol in footer changed to blue to look better. 
  
 ## Screen shot
-	![Horiseon page part 1](./assets/images/screen-shot-01.jpg)
-    ![Horiseon page part 2](./assets/images/screen-shot-02.jpg)
-## links 
-[Github repository](https://github.com/mr2447/horiseon-refactor/tree/main/01-challenge-08-15/02-Challenge/Develop)
-[Deployed URL](https://mr2447.github.io/horiseon-refactor/)
+![Horiseon page part 1](/Users/marvinren/Desktop/mr2447.github.io/assets/images/screen-shot-01.png)
+![Horiseon page part 2]()
