@@ -4,27 +4,27 @@
     margin: 0;
 }
 
-body { /* set fot entire page content for uniformity*/
+body {
     background-color: #d9dcd6;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* maybe too many back up font-families?*/
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 /*Header Starts*/
 
-header { /*header reserve for its general box*/
+header {
     padding: 20px;
     background-color: #2a607c;
 }
-header h1 { /* h1 reserve for specific texts*/
+header h1 {
     display: inline-block;
     font-size: 48px;
 
 }
-header h1 a { /* both header and nav has anchor elements that uses this styling, no need to specify*/
+header h1 a { 
     color: #ffffff;
     text-decoration: none;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
-.title-text-seo { /*unecessary element ID, class followed by . is enough*/ 
+.title-text-seo {
     color: #d9dcd6;
 }
 header nav {
@@ -85,7 +85,7 @@ header nav ul li a:hover {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff; /*deleted repeatative code to make it DRY*/ /*order of apparence, group contents next to each other*/
+    color: #ffffff;
 }
 .content h2 {
     margin-bottom: 20px;
@@ -109,10 +109,9 @@ header nav ul li a:hover {
 .benefit {
     margin-bottom: 25px;
     color: #ffffff;
-    /*DRY*/
 }
 .benefit h3 {
-    margin: 5px auto 5px auto; /*was 10*/
+    margin: 5px auto 5px auto;
     text-align: center;
     border-bottom: 2px solid #d9dcd6;
     padding-bottom: 5px;
@@ -126,7 +125,7 @@ header nav ul li a:hover {
 /*Footer starts*/
 .footer {
     padding: 30px;
-    clear: both; /*deleted font-family, DRY */
+    clear: both;
     text-align: center;
 }
 .footer h2 {
