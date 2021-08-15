@@ -51,5 +51,5 @@ Made with ❤ by Marvin Ren
     4. heart symbol in footer changed to blue to look better. 
  
 ## Screen shot
-![Horiseon page part 1](/Users/marvinren/Desktop/mr2447.github.io/assets/images/screen-shot-01.png)
-![Horiseon page part 2]()
+![Horiseon page part 1](./assets/images/screen-shot-01.png)
+![Horiseon page part 2](./assets/images/screen-shot-02.png)
