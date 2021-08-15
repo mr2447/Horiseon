@@ -40,6 +40,7 @@
     4. heart symbol in footer changed to blue to look better. 
  
 ## Screen shot
-	![alt text](screen-shot-01.jpg)
-    ![alt text](screen-shot-02.jpg)
+	![Horiseon page part 1](./assets/images/screen-shot-01.jpg)
+    ![Horiseon page part 2](./assets/images/screen-shot-02.jpg)
 ## links 
+[Github repository](https://www.example.com)
